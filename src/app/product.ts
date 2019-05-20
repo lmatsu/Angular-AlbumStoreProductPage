@@ -1,5 +1,5 @@
 export interface Product {
-    it: number;
+    id: number;
     artistName: string;
     albumName: string;
 }
